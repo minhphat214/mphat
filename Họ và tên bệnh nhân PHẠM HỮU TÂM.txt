@@ -5,22 +5,22 @@ Email: huutam@gmail.com
 Địa chỉ: 99/1 Lục Tinh, Phường 1, TP. Rạch Giá, Tỉnh Kiên Giang
 
 1.Thông tin chung
-  Lý do khám bệnh: Chóng mặt
-  Than phiền của bệnh nhân: Chóng mặt và chỉ uống enalapril mà không sử dụng Thiazide
+Lý do khám bệnh: Chóng mặt
+Than phiền của bệnh nhân: Chóng mặt và chỉ uống enalapril mà không sử dụng Thiazide
 
 2.Các chỉ số khác
-  Huyết áp T/Thu: 150 mmHg
-  Huyết áp T/Thu: 150 mmHg
-  Mạch: 80 lần/p
-  Cân nặng: 70kg
+Huyết áp T/Thu: 150 mmHg
+Huyết áp T/Thu: 150 mmHg
+Mạch: 80 lần/p
+Cân nặng: 70kg
 
 3.Kết quả y khoa
-   Tên: ALT (SGPT)
-   Giá trị: 28
-   Đơn vị: IU/L
-   Tham chiếu: Nam<41 Nữ<31
+Tên: ALT (SGPT)
+Giá trị: 28
+Đơn vị: IU/L
+Tham chiếu: Nam<41 Nữ<31
 
 4.Chẩn đoán của bác sỹ
-   Khỏe
-   Tim phổi bình thường
-   I10-Cao huyết áp vô căn (nguyên phát)
+Khỏe
+Tim phổi bình thường
+I10-Cao huyết áp vô căn (nguyên phát)
