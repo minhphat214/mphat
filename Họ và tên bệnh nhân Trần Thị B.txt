@@ -1,0 +1,25 @@
+Họ và tên bệnh nhân: Trần Thị B
+Giới tính: Nữ
+Ngày sinh: 15/07/2005
+Email: tranthib@gmail.com
+Địa chỉ: 123 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh
+
+1. Thông tin chung
+Lý do khám bệnh: Đau đầu thường xuyên
+Than phiền của bệnh nhân: Đau đầu kéo dài, chóng mặt khi thay đổi tư thế, không có triệu chứng khác
+
+2. Các chỉ số khác
+Huyết áp T/Thu: 120/80 mmHg
+Mạch: 72 lần/p
+Cân nặng: 58kg
+Chiều cao: 165cm
+
+3. Kết quả y khoa
+Tên: HBsAg (Hepatitis B)
+Giá trị: Âm tính
+Tham chiếu: HBsAg (-)
+
+4. Chẩn đoán của bác sỹ
+Không có dấu hiệu nhiễm viêm gan B
+Tình trạng sức khỏe: Bình thường
+Khuyến nghị: Duy trì lối sống lành mạnh, tái khám định kỳ

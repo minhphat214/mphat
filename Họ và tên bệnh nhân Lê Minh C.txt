@@ -1,0 +1,25 @@
+Họ và tên bệnh nhân: Lê Minh C
+Giới tính: Nam
+Ngày sinh: 10/11/2005
+Email: leminhc@gmail.com
+Địa chỉ: 456 Võ Thị Sáu, TP. Hà Nội
+
+1. Thông tin chung
+Lý do khám bệnh: Khó thở khi gắng sức
+Than phiền của bệnh nhân: Khó thở khi leo cầu thang, thỉnh thoảng bị đau ngực
+
+2. Các chỉ số khác
+Huyết áp T/Thu: 130/85 mmHg
+Mạch: 90 lần/p
+Cân nặng: 75kg
+Chiều cao: 170cm
+
+3. Kết quả y khoa
+Tên: ECG (Điện tâm đồ)
+Giá trị: Bất thường - Tăng sóng T
+Tham chiếu: Sóng T bình thường
+
+4. Chẩn đoán của bác sỹ
+Có dấu hiệu bất thường về tim mạch, cần theo dõi thêm
+Chẩn đoán: Tăng huyết áp giai đoạn đầu
+Khuyến nghị: Uống thuốc hạ huyết áp, tránh căng thẳng, tái khám sau 1 tháng
